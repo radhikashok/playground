@@ -64,7 +64,6 @@ for idx in range(0, size):
     enter_element = get_num_from_user("Enter element: ", True)
     new_list.append(enter_element)
 
-
 #check_list = input("Enter elements of the list: ")  # user to enter 1,3,4,5
 
 check_num = get_num_from_user("Enter a number: ", True)
